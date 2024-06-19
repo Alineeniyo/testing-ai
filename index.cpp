@@ -13,7 +13,7 @@ private:
     int id;
     string first_name;
     string last_name;
-    float marks;
+    float maks;
 
 public:
     Student(int id, string first_name, string last_name, float marks) :
